@@ -14,7 +14,7 @@ body {
   background-color: #efefef;
 }
 .header {
-  background-image: url("/assets/matt-antonioli-T_ZdgxzPS5k-unsplash%202.9f358aae9fdb75ea773c.jpg");
+  background-image: url("/rentCar/assets/matt-antonioli-T_ZdgxzPS5k-unsplash%202.9f358aae9fdb75ea773c.jpg");
   height: 450px;
   width: 100%;
   max-width: 1600px;
@@ -877,7 +877,7 @@ header {
   box-sizing: border-box;
 }
 header {
-  background-image: url("/assets/Bavaria%202.1d03bdb5f4c0497b063c.jpeg");
+  background-image: url("/rentCar/assets/Bavaria%202.1d03bdb5f4c0497b063c.jpeg");
   background-repeat: no-repeat;
   background-position: center;
   max-width: 1600px;
